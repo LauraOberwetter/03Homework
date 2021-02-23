@@ -12,4 +12,4 @@ https://lauraoberwetter.github.io/03Homework/
 
 ## Visual
 
-<img src="/Users/lauraoberwetter/Desktop/Screen Shot 2021-02-21 at 6.02.27 PM.png">
+<img width="1116" alt="Screen Shot 2021-02-21 at 6 02 27 PM" src="https://user-images.githubusercontent.com/23666524/108801190-a921c080-755a-11eb-9d33-8452a3a6a6c1.png">
